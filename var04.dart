@@ -1,4 +1,4 @@
 void main(){
     var x;
-    x = '17'
+    x = '17';
 }
